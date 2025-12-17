@@ -1,0 +1,11 @@
+>> sales1.py starting up
+Read 23 cities from cities23.dat
+Initial tour length: 48148.58 km
+Estimated initial temperature T0 = 9053.723
+Optimized tour length: 13404.55 km
+Execution time: 36.496 s
+Wrote optimized route to cities23_opt.dat
+INITIAL_LENGTH 48148.583739
+OPTIMIZED_LENGTH 13404.554537
+EXECUTION_TIME 36.496442
+Wrote annealing schedule plot to ancities23.png
